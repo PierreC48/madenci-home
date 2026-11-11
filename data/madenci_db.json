@@ -1,0 +1,117 @@
+{
+  "families": [
+    {
+      "name": "Madenci Ailesi",
+      "invite_code": "EV-W5TA7A",
+      "invites_enabled": true,
+      "recovery_code": "YON-L4VVRRZF",
+      "auto_stock": false,
+      "id": "ec2b2754-2e23-46ad-a9d3-8bb166804787",
+      "created_at": "2026-11-11T06:29:43.716Z",
+      "updated_at": "2026-11-11T06:29:43.716Z"
+    }
+  ],
+  "family_members": [
+    {
+      "family_id": "ec2b2754-2e23-46ad-a9d3-8bb166804787",
+      "name": "Ceyhun",
+      "device_name": "Ana Cihaz",
+      "token": "70abfff0-3bd1-479b-9c3f-3ca72a57a61f",
+      "is_admin": true,
+      "id": "ccbd03aa-2a4f-4e3f-9a79-bae993a1ef77",
+      "created_at": "2026-11-11T06:29:43.719Z",
+      "updated_at": "2026-11-11T06:29:43.719Z"
+    }
+  ],
+  "items": [],
+  "notification_events": [
+    {
+      "family_id": "ec2b2754-2e23-46ad-a9d3-8bb166804787",
+      "actor_name": "Ceyhun",
+      "type": "add",
+      "kind": "family",
+      "item_name": "Madenci Ailesi oluşturuldu.",
+      "id": "d5ac0ac8-1598-4b2f-912f-14cc8bedfa02",
+      "created_at": "2026-11-11T06:29:43.722Z",
+      "updated_at": "2026-11-11T06:29:43.722Z"
+    }
+  ],
+  "notification_preferences": [],
+  "push_subscriptions": [],
+  "favorites": [],
+  "custom_lists": [
+    {
+      "family_id": "ec2b2754-2e23-46ad-a9d3-8bb166804787",
+      "name": "Haftalık Market",
+      "entries": [
+        {
+          "name": "Süt",
+          "quantity": "2 litre",
+          "category": "Süt & Kahvaltı"
+        },
+        {
+          "name": "Yumurta",
+          "quantity": "1 koli",
+          "category": "Süt & Kahvaltı"
+        },
+        {
+          "name": "Ekmek",
+          "quantity": "2 adet",
+          "category": "Temel Gıda"
+        },
+        {
+          "name": "Peynir",
+          "quantity": "500 g",
+          "category": "Süt & Kahvaltı"
+        },
+        {
+          "name": "Zeytin",
+          "quantity": "1 kavanoz",
+          "category": "Süt & Kahvaltı"
+        },
+        {
+          "name": "Yoğurt",
+          "quantity": "1 kova",
+          "category": "Süt & Kahvaltı"
+        }
+      ],
+      "id": "931160ca-85a8-4b15-b1a2-f813e0ed5a25",
+      "created_at": "2026-11-11T06:29:43.721Z",
+      "updated_at": "2026-11-11T06:29:43.721Z"
+    },
+    {
+      "family_id": "ec2b2754-2e23-46ad-a9d3-8bb166804787",
+      "name": "Temizlik İhtiyaçları",
+      "entries": [
+        {
+          "name": "Bulaşık deterjanı",
+          "quantity": "1 adet",
+          "category": "Temizlik"
+        },
+        {
+          "name": "Çamaşır deterjanı",
+          "quantity": "1 adet",
+          "category": "Temizlik"
+        },
+        {
+          "name": "Yüzey temizleyici",
+          "quantity": "1 adet",
+          "category": "Temizlik"
+        },
+        {
+          "name": "Çöp poşeti",
+          "quantity": "2 rulo",
+          "category": "Temizlik"
+        }
+      ],
+      "id": "1e0e68f1-a502-4f59-b7e4-8bcd9f90fc7e",
+      "created_at": "2026-11-11T06:29:43.721Z",
+      "updated_at": "2026-11-11T06:29:43.721Z"
+    }
+  ],
+  "calendar_events": [],
+  "bills": [],
+  "bill_payments": [],
+  "documents": [],
+  "fuel_logs": []
+}
